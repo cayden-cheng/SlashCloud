@@ -1,3 +1,4 @@
+/*
 package com.lanmushan.sysservice.service.impl;
 
 import com.lanmushan.sysservice.SysServiceApplication;
@@ -8,11 +9,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import static org.junit.Assert.*;
 
+*/
 /**
  * @Author dy
  * @Date 2020/6/20 23:59
  * @Version 1.0
- */
+ *//*
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = SysServiceApplication.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
@@ -38,4 +41,4 @@ public class SysTbDictServiceImplTest {
     @Test
     public void deleteServiceByIds() {
     }
-}
+}*/
